@@ -1,0 +1,7 @@
+
+Ethan;9
+bad;1
+BAD;1
+BAD;1
+BADE;1
+Alex;10
